@@ -10,6 +10,6 @@ class TestBitwiseOp
 		System.out.println("Bitwise XOR(a^b)  : "+(a^b));
 		System.out.println("Bitwise NOT(~b)   : "+(~b));
 		System.out.println("Bitwise AND(~a)   : "+(~a));
-		System.out.println("Bitwise AND(~a)   : "+(a<<1));
+		
 	}
 }
